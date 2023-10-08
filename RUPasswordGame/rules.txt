@@ -1,0 +1,28 @@
+1. Your password must be at least 6 characters (NOT one you already use!).
+2. Your password must include a number.
+3. Your password must include a special character.
+4. Your password must not have special characters next to a number.
+5. Your password has to be greater than 20 characters.
+6. Some mysterious bird has emerged from its slumber, wave to it! o/
+7. The numbers in your password must add to 33. 
+8. The second and second to last character in your password must be the same. 
+9. Your password must contain the number 561.
+10. Your password has crippling depression. Make it smile! :).
+11. Your password must contain every vowel.
+12. Your password is being held hostage by a giant number condor. The condor is only scared of 7...because...7...8.....
+13. Your password must have EXACTLY 20 vowels.
+14. Your password must contain the last name of one of the first ten US presidents.
+15. Your password is an extreme radiation zone. Give all of the password a full shield with ( and ).
+16. Your password must contain the number of rules currently active.
+17. Your password must have one of my favorite colors.
+18. Your password must contain the answer to this riddle: I have four arms but no hands. I have four legs but no feet. I have four feet, but no legs. What am I?
+19. Your password must have all letters of the alphabet at least once.
+20. Your password must have at most 100 characters.
+21. Your password should not have any connected repeating letters. 
+22. Your password must have a number in the first five characters.
+23. Your password must include the name of a Rutgers campus.
+24. Your password must contain an element abbreviation in the periodic table group 18.
+25. Your password must contain the name of a continent where a condor lives.
+26. Your password must contain a perfect square between 200 and 600.
+27. Your password must contain the answer to this riddle: I am always around, but never seen. I have been where you have been. I can cause pain or bring joy. What am I?
+28. The condor is still pretty upset, communicate with it one last time by putting caw somewhere in your password.
